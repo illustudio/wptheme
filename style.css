@@ -1,0 +1,13 @@
+/*!
+ * Theme Name: HTML5 Blank
+ * Theme URI: http://html5blank.com
+ * Description: HTML5 Blank WordPress Theme
+ * Version: 1.5.0
+ * Author: Todd Motto (@toddmotto)
+ * Author URI: http://toddmotto.com
+ * Tags: Blank, HTML5, CSS3
+ *
+ * License: MIT
+ * License URI: http://opensource.org/licenses/mit-license.php
+ */
+*,:after,:before{box-sizing:border-box}html{font-size:62.5%;-webkit-tap-highlight-color:transparent}a,body{color:#444}body{font-family:"Helvetica Neue",Helvetica,Arial,"Open Sans",sans-serif;font-size:140%;line-height:1.5;background-color:#fff}img{max-width:100%;vertical-align:middle}a{text-decoration:none}a:focus,a:hover{text-decoration:underline}input[type=search],input[type=text]{font-size:inherit;line-height:inherit}::-moz-selection{background-color:#04a4cc;color:#fff;text-shadow:none}::selection{background-color:#04a4cc;color:#fff;text-shadow:none}.alignnone{margin:5px 15px 15px 0}.aligncenter{display:block;margin:5px auto}.alignright{float:right;margin:5px 0 15px 15px}.alignleft{float:left;margin:5px 15px 15px 0}.wp-caption{background:#fff;border:thin solid #f0f0f0;max-width:95%;padding:5px;text-align:center}.wp-caption img{width:auto;max-width:98.5%;height:auto;border:0 none}.gallery-caption,.wp-caption .wp-caption-text{margin:0;padding:0 5px 5px;font-size:140%;line-height:1.5}.clear:after,.clear:before{content:" ";display:table}.clear:after{clear:both}.reset-box,.wp-caption img{padding:0;margin:0}.wrapper{max-width:1280px;padding:0 15px;margin:0 auto;position:relative}.header{border-width:1px;border-style:solid;border-color:#ddd}@media print{*,:after,:before{background:0 0!important;color:#000!important;box-shadow:none!important;text-shadow:none!important}a,a:visited{text-decoration:underline}a[href]:after{content:" (" attr(href) ")"}abbr[title]:after{content:" (" attr(title) ")"}a[href^="#"]:after,a[href^="javascript:"]:after{content:""}blockquote,pre{border:1px solid #999}thead{display:table-header-group}blockquote,img,pre,tr{page-break-inside:avoid}img{max-width:100%!important}h2,h3,p{orphans:3;widows:3}h2,h3{page-break-after:avoid}}
